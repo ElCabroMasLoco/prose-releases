@@ -3,13 +3,13 @@
     <channel>
         <title>Prose</title>
         <item>
-            <title>0.5.1</title>
-            <pubDate>Sun, 19 Apr 2026 07:00:05 -0700</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
+            <title>0.6.0</title>
+            <pubDate>Sun, 19 Apr 2026 16:40:13 -0700</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/ElCabroMasLoco/prose-releases/releases/download/v0.5.1/Prose-v6.dmg" length="4846904" type="application/octet-stream" sparkle:edSignature="db3KgXboh57gtwC9bT2MI3icLQkcEJFey3+USOp6a/9W/SAVApoEbAjaIaYwmyIw9BWHMhNYFJ0mnHiazB4iCA=="/>
+            <enclosure url="https://github.com/ElCabroMasLoco/prose-releases/releases/download/v0.6.0/Prose-0.6.0.dmg" length="5108245" type="application/octet-stream" sparkle:edSignature="OYd5vwHX2H7evv+mGHyHbYwrXkg6l8rbaGX0y7XJ3v1R+UJuhwEgPxh7LWwE4ivRR6re76khGQBkJTayEqhRDQ=="/>
         </item>
     </channel>
 </rss>
