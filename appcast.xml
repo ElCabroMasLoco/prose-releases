@@ -3,6 +3,21 @@
     <channel>
         <title>Prose</title>
         <item>
+            <title>0.8.5</title>
+            <pubDate>Fri, 15 May 2026 11:00:47 -0700</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>0.8.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/ElCabroMasLoco/prose-releases/releases/download/v0.8.5/Prose-0.8.5.dmg" length="7770551" type="application/octet-stream" sparkle:edSignature="BqIyKjdF+1eNcg9rDakNUE2KkOctXkFIsRztFqTkHX74XaokyxCynpOhS1iWLiFNZPeAotXNK4Xclxh4hD3xBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/ElCabroMasLoco/prose-releases/main/Prose15-14.delta" sparkle:deltaFrom="14" length="605710" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rqddbs4a/oINgVv9/MJgdFLvQ2/5QcZaz+ENyKUwuHuEd7b9rhtXjAWEPskKOrRgS97tWc1uaoftV6AAgHQABg=="/>
+                <enclosure url="https://raw.githubusercontent.com/ElCabroMasLoco/prose-releases/main/Prose15-13.delta" sparkle:deltaFrom="13" length="806690" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="czCKla107vKw2uCzEWpRJ1kodiDC0Q67vhFTP3E+Nkpff2poUKo+OU715sOmnVh4CbSKJbiM+3C5QAqgHECPDg=="/>
+                <enclosure url="https://raw.githubusercontent.com/ElCabroMasLoco/prose-releases/main/Prose15-12.delta" sparkle:deltaFrom="12" length="1039790" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3CJ0vild2l9MNybne/8ua2fc5p8GizKlGUPmFC1X3q+scn0pThpnjV/wEsoR1W8Yd43hJhYB2RuZYdjIHHJPAQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/ElCabroMasLoco/prose-releases/main/Prose15-11.delta" sparkle:deltaFrom="11" length="1267522" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="vcdXcxfpiRI8whxqNmu2b0PtwLZYY6IMSwBDtg2TfEdO7vvdMEIpud1aXc0NDi05lMpQfq7AyGQ0lJOPOOx5CA=="/>
+                <enclosure url="https://raw.githubusercontent.com/ElCabroMasLoco/prose-releases/main/Prose15-10.delta" sparkle:deltaFrom="10" length="1545650" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9H7tzHKDav2P1du1Qxft1dvQbImMDOytc0Kdujzguz7OqKNBqR8M6EfIA6O/um2HtNKIgTAhp/fJ0HKNa8MfDw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.8.4</title>
             <pubDate>Mon, 11 May 2026 12:35:53 -0400</pubDate>
             <sparkle:version>14</sparkle:version>
